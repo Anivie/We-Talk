@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "HarmonyOS Sans SC + iconfont Light";
+    src: url("harmony.ttf");
+}
+
+.root{
+    /*-fx-font-size: 17px;*/
+    -fx-font-family: "HarmonyOS Sans SC + iconfont Light";
+}
